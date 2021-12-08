@@ -166,4 +166,7 @@
 	.copyright{
 	margin-top: 60px; /*change*/
 	}
+	
+	@font-face {
+		font-family: Delicious; src: url('open-sans.otf'); } 
 }
