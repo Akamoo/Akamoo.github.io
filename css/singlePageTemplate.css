@@ -154,7 +154,7 @@ body {
 	color: #FFFFFF;
 	font-size: 17px;
 	text-align: left;
-	font-family: open-sans;
+	font-family: verdana;
 	font-weight: bold;
 	margin-right: 25px;
 	letter-spacing: 2px;
@@ -193,7 +193,7 @@ body {
 	font-weight: 600;
 	text-transform: none;
 	letter-spacing: 1px;
-	font-family: open-sans;
+	font-family: verdana;
 	font-style: normal;
 	font-size: 30px;
 }
@@ -203,7 +203,7 @@ body {
 	font-weight: 600;
 	text-transform: none;
 	letter-spacing: 1px;
-	font-family: open-sans;
+	font-family: verdana;
 	font-style: normal;
 	font-size: 30px;
 	list-style: none;
@@ -265,7 +265,7 @@ body {
 .about-name {
 	width: 309px;
 	text-align: left;
-	font-family: open-sans;
+	font-family: verdana;
 	font-style: normal;
 	font-weight: 500;
 	font-size: medium;
@@ -275,7 +275,7 @@ body {
 .project-name1 {
 	width: 175px;
 	text-align: left;
-	font-family: open-sans;
+	font-family: verdana;
 	font-style: normal;
 	font-weight: 500;
 	font-size: medium;
@@ -284,7 +284,7 @@ body {
 .project-name2 {
 	width: 175px;
 	text-align: left;
-	font-family: open-sans;
+	font-family: verdana;
 	font-style: normal;
 	font-weight: 500;
 	font-size: medium;
@@ -292,7 +292,7 @@ body {
 .about-work {
 	width: 349px;
 	text-align: left;
-	font-family: open-sans;
+	font-family: verdana;
 	font-style: normal;
 	font-weight: 500;
 	font-size: medium;
@@ -476,7 +476,7 @@ footer .footer_column p {
 	font-weight: 300;
 	letter-spacing: 2px;
 	border-top-width: 2px;
-	font-family: open-sans;
+	font-family: verdana;
 	font-style: normal;
 	font-size: small;
 	margin-left: auto;
@@ -670,13 +670,13 @@ footer {
 .about-name-head {
 	width: 158px;
 	margin-left: -10px;
-	font-family: open-sans;
+	font-family: verdana;
 	font-style: normal;
 	font-weight: 600;
 	margin-top: -175px;
 }
 project-name-head1 {
-	font-family: open-sans;
+	font-family: verdana;
 	font-style: normal;
 	font-weight: 600;
 	font-size: 0px;
@@ -947,7 +947,7 @@ project-name-head1 {
 }
 .hoverme2 {
 	width: 172px;
-	font-family: open-sans;
+	font-family: verdana;
 	font-style: normal;
 	font-weight: 600;
 	margin-left: auto;
@@ -959,7 +959,7 @@ project-name-head1 {
 }
 .hoverme3 {
 	width: 172px;
-	font-family: open-sans;
+	font-family: verdana;
 	font-style: normal;
 	font-weight: 600;
 	margin-left: auto;
@@ -1352,7 +1352,7 @@ nav {
 	width: 137px;
 	margin-left: 103px;
 	margin-top: -163px;
-	font-family: open-sans;
+	font-family: verdana;
 	font-weight: 600;
 }
 .p-3d-3 {
