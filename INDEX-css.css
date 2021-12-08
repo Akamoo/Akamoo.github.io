@@ -167,9 +167,4 @@
 	margin-top: 60px; /*change*/
 	}
 	
-	@font-face {
-	font-family: 'open-sans'
-	src: url('open-sans.ttf') format('woff2'),
-		url('open-sans.ttf') format('woff1');
-	}
 }
